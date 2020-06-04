@@ -1,1 +1,1 @@
-# Raspberry Pi projects
+# Raspberry Pi projects: some basic usage
